@@ -8,5 +8,4 @@ gem 'rspec'
 gem 'dotenv'
 # pry i used for debuging
 gem 'pry'
-
-gem 'nokogiri'
+gem "nokogiri", ">= 1.6.7.rc"
